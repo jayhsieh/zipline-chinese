@@ -1,3 +1,8 @@
+# zipline的目录结构
+
+下面列出了zipline主要的目录和文件结构和它的说明
+
+```
 ├── ci    -  持续集成相关
 ├── conda - 生成conda 包先关
 ├── docs - 文档
@@ -61,7 +66,11 @@
 │   ├── test_algorithms.py - 测试策略...
 │   ├── testing - 测试
 │   ├── utils - 一些工具类， 其中 run_algo.py, tradingcalendar.py 相关的需要重点关注下
+```
 
+
+
+##  
 
 
 Zipline－一个正在成长的项目
